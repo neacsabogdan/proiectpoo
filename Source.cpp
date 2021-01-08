@@ -5,7 +5,5 @@ using namespace std;
 
 int main() 
 {
-	tabela t;
-	coloana c;
 	bazadedate b;
 }
